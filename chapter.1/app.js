@@ -12,8 +12,7 @@
 // alert( "happy coading ")
 
 // question no .5
-// alert("hello.. I can run JS through my web browser's console")
+// console.log("hello.. I can run JS through my web browser's console")
 
-// question no .6
-// alert("this is my first javascript pop practice")
+
 
