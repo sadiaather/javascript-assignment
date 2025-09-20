@@ -73,38 +73,38 @@ let percentage = (totalMarks/obtainedMarks)*100;
 
 document.write(`<table>
     <tr>
-    <th>Subject<th/>
-    <th>Total marks<th/>
-    <th>Obtained marks<th/>
-    <th>Percentage<th/>
-    <tr/>
+    <th>Subject</th>
+    <th>Total marks</th>
+    <th>Obtained marks</th>
+    <th>Percentage</th>
+    </tr>
 
     <tr>
-    <td> ${sub1}<td/>
-     <td> ${totalMarks}<td/>
-     <td> ${obtaiendSub1}<td/>
-      <td> ${percentage1}%<td/>
-     <tr/>
+    <td> ${sub1}</td>
+     <td> ${totalMarks}</td>
+     <td> ${obtaiendSub1}</td>
+      <td> ${percentage1}%</td>
+     </tr>
 
       <tr>
-    <td> ${sub2}<td/>
-     <td> ${totalMarks}<td/>
-     <td> ${obtaiendSub2}<td/>
-      <td> ${percentage2}%<td/>
-     <tr/>
+    <td> ${sub2}</td>
+     <td> ${totalMarks}</td>
+     <td> ${obtaiendSub2}</td>
+      <td> ${percentage2}%</td>
+     </tr>
 
       <tr>
-    <td> ${sub3}<td/>
-     <td> ${totalMarks}<td/>
-     <td> ${obtaiendSub3}<td/>
-      <td> ${percentage3}%<td/>
-     <tr/>
+    <td> ${sub3}</td>
+     <td> ${totalMarks}</td>
+     <td> ${obtaiendSub3}</td>
+      <td> ${percentage3}%</td>
+     </tr>
 
        <tr>
-    <td> <td/>
-     <th> ${totalMarks*3}<th/>
-     <th> ${obtainedMarks}<th/>
-      <th> ${percentage}%<th/>
-     <tr/>
-     <table/>`)
-     
+    <td> </td>
+     <th> ${totalMarks*3}</th>
+     <th> ${obtainedMarks}</th>
+      <th> ${percentage}%</th>
+     </tr>
+     </table>`)
+   
