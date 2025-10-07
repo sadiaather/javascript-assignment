@@ -8,8 +8,10 @@ const nums = [[0,1,2,3],
              [1,0,1,2] ,
              [2,1,0,1]];
 for(let i=0; i<3; i++){    
-       document.write(`${nums[i]} <br/>`)
-    
+       for(let j=0 ; j<4; j++){
+document.write(nums[i][j] + " ")
+       }
+    document.write("<br/>")
         }
 
 
@@ -126,6 +128,7 @@ for(let i=5; i<=100; i++){
 
 
     
+
 
 
 
