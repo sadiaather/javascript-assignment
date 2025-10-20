@@ -1,0 +1,44 @@
+.body{
+    background-image: linear-gradient(rgb(240, 20, 57),blue);
+    height: 500x;
+    width: 450px;
+    border: 20px;
+    border-radius: 20px;
+    margin: 100px;
+    padding: 100px;
+
+}
+
+.head{ background-color: aquamarine;
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    margin : 20px;
+    border-radius: 20px;
+    font-size: large;
+
+    
+}
+textarea{
+    border-radius: 10px;
+    height: 30px;
+    width: 150px;
+    padding: 5px;
+}
+.buton{
+    background-color: aqua;
+    height: 50px;
+    border: 50px;
+    border-radius: 20px;
+    margin: 2px;
+    font-size: larger;
+
+}
+P{
+    background-color: aqua;
+    border-radius: 20PX;
+    margin: 20PX;
+    padding: 20PX;
+    font-size: larger;
+    font-weight: 200;
+}
