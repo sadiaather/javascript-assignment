@@ -1,0 +1,9 @@
+       body { font-family: Arial; padding: 20px; }
+
+        label { display: block; margin-top: 10px; }
+
+        table { margin-top: 20px; width: 100%; border-collapse: collapse; }
+
+        th, td { border: 1px solid #000; padding: 8px; }
+
+        th { background: #aa9c9c; }
